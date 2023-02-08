@@ -38,5 +38,5 @@ https://user-images.githubusercontent.com/119719784/217581584-b231167b-015d-49ff
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Sanket0753]www.linkedin.com/in/Sanket0753)
+- **LinkedIn** - [Sanket0753](www.linkedin.com/in/Sanket0753)
 - **Twitter** -  [sanketss753](https://twitter.com/sanketss753)
