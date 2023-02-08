@@ -1,10 +1,6 @@
 ## ⭐ Landing Page ⭐
 
 This is an project given in **"Internship by Oasis Infobyte"** ,built using **HTML5 and CSS3**.
-<br>
-<br>
-
-## 📌 **Live Site URL:** <a href="https://p8rjo7.csb.app/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -16,7 +12,7 @@ This is an project given in **"Internship by Oasis Infobyte"** ,built using **HT
 <br>
 
 ## 📌 Overview
-This is the [live demo](https://app.flonnect.com/view/trim/kateakshay165/Flonnect_2023-02-01_1251e363-5453-473b-9b7d-5ad1c2b48f68/Flonnect_2023-02-01_1251e363-5453-473b-9b7d-5ad1c2b48f68-trim-1) of the project . 
+This is the [live demo](https://app.flonnect.com/view/video/sanketss753/Flonnect_2023-02-08_fbf826c9-e976-4683-b576-790e49aa57b7) of the project . 
 
 https://user-images.githubusercontent.com/99186806/215962808-49b79da5-d44c-416e-9bbb-5e6edd887496.mp4
 
